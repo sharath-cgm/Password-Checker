@@ -1,0 +1,38 @@
+.App {
+  
+}
+
+.App-logo {
+	text-align: center;
+  animation: App-logo-spin infinite 20s linear;
+  height: 160px;
+}
+
+.App-header {
+	text-align: center;
+  background-color: rgb(154,47,211);
+  padding: 20px;
+  color: black;
+}
+
+.App-intro {
+	text-align: center;
+  color: red;
+}
+
+
+
+.navigation {
+	text-align: center;
+  height: 100px;
+  padding: 20px;
+  color: black;
+}
+
+.stringcheck{
+  text-align: left;
+}
+
+.functioncall{
+  text-align: center;
+}
